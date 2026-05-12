@@ -1,0 +1,88 @@
+2026-05-12 14:45:33 | INFO | ============================================================
+2026-05-12 14:45:33 | INFO | INICIO DE SIMULACIÓN - Software FJ
+2026-05-12 14:45:33 | INFO | ============================================================
+2026-05-12 14:45:33 | INFO | Cliente registrado: Laura Gómez | Cédula: 1098765432
+2026-05-12 14:45:33 | ERROR | Cédula inválida: 'ABC123XYZ'. Solo se permiten dígitos.
+2026-05-12 14:45:33 | ERROR | Correo inválido: 'correo-sin-arroba'. Debe contener '@' y '.'.
+2026-05-12 14:45:33 | ERROR | Capacidad de sala inválida: 0. Debe ser mayor a 0.
+2026-05-12 14:45:33 | INFO | Cliente registrado: Carlos Medina | Cédula: 1122334455
+2026-05-12 14:45:33 | INFO | Reserva F8E1BA57 creada | Cliente: Carlos Medina | Servicio: Asesoría Especializada | Duración: 3h
+2026-05-12 14:45:33 | INFO | Reserva F8E1BA57 confirmada.
+2026-05-12 14:45:33 | DEBUG | Reserva F8E1BA57 | Estado actual: confirmada
+2026-05-12 14:45:33 | INFO | Reserva F8E1BA57 procesada exitosamente.
+2026-05-12 14:45:33 | DEBUG | Reserva F8E1BA57 | Estado final: procesada
+2026-05-12 14:45:33 | WARNING | Reserva F8E1BA57 | Cancelar fallido: No se puede cancelar una reserva en estado 'procesada'.
+2026-05-12 14:45:33 | DEBUG | Reserva F8E1BA57 | Estado actual: procesada
+2026-05-12 14:45:33 | ERROR | Tipo de equipo desconocido: 'dron'. Opciones: ['laptop', 'camara', 'tablet', 'proyector']
+2026-05-12 14:45:33 | ERROR | Excepción encadenada: Error al procesar datos del cliente desde fuente externa. | Causa: Datos del formulario externo corruptos.
+2026-05-12 14:45:33 | INFO | Cliente registrado: María Ospina | Cédula: 5544332211
+2026-05-12 14:45:33 | INFO | Reserva 02A05C71 creada | Cliente: María Ospina | Servicio: Alquiler de Equipo | Duración: 2h
+2026-05-12 14:45:33 | INFO | Reserva 02A05C71 confirmada.
+2026-05-12 14:45:33 | DEBUG | Reserva 02A05C71 | Estado actual: confirmada
+2026-05-12 14:45:33 | INFO | FIN DE SIMULACIÓN - Software FJ
+2026-05-12 14:46:18 | INFO | ============================================================
+2026-05-12 14:46:18 | INFO | INICIO DE SIMULACIÓN - Software FJ
+2026-05-12 14:46:18 | INFO | ============================================================
+2026-05-12 14:46:18 | INFO | Cliente registrado: Laura Gómez | Cédula: 1098765432
+2026-05-12 14:46:18 | ERROR | Cédula inválida: 'ABC123XYZ'. Solo se permiten dígitos.
+2026-05-12 14:46:18 | ERROR | Correo inválido: 'correo-sin-arroba'. Debe contener '@' y '.'.
+2026-05-12 14:46:18 | ERROR | Capacidad de sala inválida: 0. Debe ser mayor a 0.
+2026-05-12 14:46:18 | INFO | Cliente registrado: Carlos Medina | Cédula: 1122334455
+2026-05-12 14:46:18 | INFO | Reserva B6B62915 creada | Cliente: Carlos Medina | Servicio: Asesoría Especializada | Duración: 3h
+2026-05-12 14:46:18 | INFO | Reserva B6B62915 confirmada.
+2026-05-12 14:46:18 | DEBUG | Reserva B6B62915 | Estado actual: confirmada
+2026-05-12 14:46:18 | INFO | Reserva B6B62915 procesada exitosamente.
+2026-05-12 14:46:18 | DEBUG | Reserva B6B62915 | Estado final: procesada
+2026-05-12 14:46:18 | WARNING | Reserva B6B62915 | Cancelar fallido: No se puede cancelar una reserva en estado 'procesada'.
+2026-05-12 14:46:18 | DEBUG | Reserva B6B62915 | Estado actual: procesada
+2026-05-12 14:46:18 | ERROR | Tipo de equipo desconocido: 'dron'. Opciones: ['laptop', 'camara', 'tablet', 'proyector']
+2026-05-12 14:46:18 | ERROR | Excepción encadenada: Error al procesar datos del cliente desde fuente externa. | Causa: Datos del formulario externo corruptos.
+2026-05-12 14:46:18 | INFO | Cliente registrado: María Ospina | Cédula: 5544332211
+2026-05-12 14:46:18 | INFO | Reserva D474A2C7 creada | Cliente: María Ospina | Servicio: Alquiler de Equipo | Duración: 2h
+2026-05-12 14:46:18 | INFO | Reserva D474A2C7 confirmada.
+2026-05-12 14:46:18 | DEBUG | Reserva D474A2C7 | Estado actual: confirmada
+2026-05-12 14:46:18 | INFO | FIN DE SIMULACIÓN - Software FJ
+2026-05-12 14:47:22 | INFO | ============================================================
+2026-05-12 14:47:22 | INFO | INICIO DE SIMULACIÓN - Software FJ
+2026-05-12 14:47:22 | INFO | ============================================================
+2026-05-12 14:47:22 | INFO | Cliente registrado: Laura Gómez | Cédula: 1098765432
+2026-05-12 14:47:22 | ERROR | Cédula inválida: 'ABC123XYZ'. Solo se permiten dígitos.
+2026-05-12 14:47:22 | ERROR | Correo inválido: 'correo-sin-arroba'. Debe contener '@' y '.'.
+2026-05-12 14:47:22 | ERROR | Capacidad de sala inválida: 0. Debe ser mayor a 0.
+2026-05-12 14:47:22 | INFO | Cliente registrado: Carlos Medina | Cédula: 1122334455
+2026-05-12 14:47:22 | INFO | Reserva 17D435E1 creada | Cliente: Carlos Medina | Servicio: Asesoría Especializada | Duración: 3h
+2026-05-12 14:47:22 | INFO | Reserva 17D435E1 confirmada.
+2026-05-12 14:47:22 | DEBUG | Reserva 17D435E1 | Estado actual: confirmada
+2026-05-12 14:47:22 | INFO | Reserva 17D435E1 procesada exitosamente.
+2026-05-12 14:47:22 | DEBUG | Reserva 17D435E1 | Estado final: procesada
+2026-05-12 14:47:22 | WARNING | Reserva 17D435E1 | Cancelar fallido: No se puede cancelar una reserva en estado 'procesada'.
+2026-05-12 14:47:22 | DEBUG | Reserva 17D435E1 | Estado actual: procesada
+2026-05-12 14:47:22 | ERROR | Tipo de equipo desconocido: 'dron'. Opciones: ['laptop', 'camara', 'tablet', 'proyector']
+2026-05-12 14:47:22 | ERROR | Excepción encadenada: Error al procesar datos del cliente desde fuente externa. | Causa: Datos del formulario externo corruptos.
+2026-05-12 14:47:22 | INFO | Cliente registrado: María Ospina | Cédula: 5544332211
+2026-05-12 14:47:22 | INFO | Reserva 0326F361 creada | Cliente: María Ospina | Servicio: Alquiler de Equipo | Duración: 2h
+2026-05-12 14:47:22 | INFO | Reserva 0326F361 confirmada.
+2026-05-12 14:47:22 | DEBUG | Reserva 0326F361 | Estado actual: confirmada
+2026-05-12 14:47:22 | INFO | FIN DE SIMULACIÓN - Software FJ
+2026-05-12 15:13:35 | INFO | ============================================================
+2026-05-12 15:13:35 | INFO | INICIO DE SIMULACIÓN - Software FJ
+2026-05-12 15:13:35 | INFO | ============================================================
+2026-05-12 15:13:35 | INFO | Cliente registrado: Laura Gómez | Cédula: 1098765432
+2026-05-12 15:13:35 | ERROR | Cédula inválida: 'ABC123XYZ'. Solo se permiten dígitos.
+2026-05-12 15:13:35 | ERROR | Correo inválido: 'correo-sin-arroba'. Debe contener '@' y '.'.
+2026-05-12 15:13:35 | ERROR | Capacidad de sala inválida: 0. Debe ser mayor a 0.
+2026-05-12 15:13:35 | INFO | Cliente registrado: Carlos Medina | Cédula: 1122334455
+2026-05-12 15:13:35 | INFO | Reserva B9A069DF creada | Cliente: Carlos Medina | Servicio: Asesoría Especializada | Duración: 3h
+2026-05-12 15:13:35 | INFO | Reserva B9A069DF confirmada.
+2026-05-12 15:13:35 | DEBUG | Reserva B9A069DF | Estado actual: confirmada
+2026-05-12 15:13:35 | INFO | Reserva B9A069DF procesada exitosamente.
+2026-05-12 15:13:35 | DEBUG | Reserva B9A069DF | Estado final: procesada
+2026-05-12 15:13:35 | WARNING | Reserva B9A069DF | Cancelar fallido: No se puede cancelar una reserva en estado 'procesada'.
+2026-05-12 15:13:35 | DEBUG | Reserva B9A069DF | Estado actual: procesada
+2026-05-12 15:13:35 | ERROR | Tipo de equipo desconocido: 'dron'. Opciones: ['laptop', 'camara', 'tablet', 'proyector']
+2026-05-12 15:13:35 | ERROR | Excepción encadenada: Error al procesar datos del cliente desde fuente externa. | Causa: Datos del formulario externo corruptos.
+2026-05-12 15:13:35 | INFO | Cliente registrado: María Ospina | Cédula: 5544332211
+2026-05-12 15:13:35 | INFO | Reserva 97FD170B creada | Cliente: María Ospina | Servicio: Alquiler de Equipo | Duración: 2h
+2026-05-12 15:13:35 | INFO | Reserva 97FD170B confirmada.
+2026-05-12 15:13:35 | DEBUG | Reserva 97FD170B | Estado actual: confirmada
+2026-05-12 15:13:35 | INFO | FIN DE SIMULACIÓN - Software FJ
